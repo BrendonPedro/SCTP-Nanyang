@@ -26,5 +26,5 @@ const cat = { ...dog }; // The spread operator creates a new object and copies t
 cat.breed = "cat";
 
 console.log("dog", dog); // This correctly prints: "dog { breed: 'dog' }"
-console.log("cat", cat); // This correctly prints: "cat { breed: 'cat' }"
+
 
