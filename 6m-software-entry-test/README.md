@@ -58,5 +58,5 @@ Please attempt the solve the problems described in the following `.js` and `.htm
 
 > Should you face any difficulties, please contact your program administrator.
 =======
-Technical test of Brendon Pedro for (SCTP) Advanced Professional Certificate in Software Engineering
+
 
