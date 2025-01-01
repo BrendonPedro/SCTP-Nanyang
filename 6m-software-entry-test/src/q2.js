@@ -20,7 +20,7 @@ function addPatient(patientName){
 
 // Task 3: Implement listPatient() function
 function listPatient() {
-    console.log(patients); //Printing array
+    console.log(patients); //Print array
 }
 
 addPatient("John");
