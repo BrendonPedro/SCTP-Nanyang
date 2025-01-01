@@ -18,5 +18,6 @@ const introduce = ({ firstName, hobby}) => {
  return `Hello, my name is ${firstName} and I love ${hobby}!`;  
 }
 
-introduce(person);
+const introduction = introduce(person);
+console.log(introduction);
 //The output says "Hello, my name is Jane and I love swimming!"
