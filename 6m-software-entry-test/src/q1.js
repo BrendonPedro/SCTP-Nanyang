@@ -20,7 +20,7 @@ function swap(x, y){
     console.log(`Values before swapping: x = ${x}, y = ${y}`);
 
     // 1.2 - Swap the values of x and y using arithmetic operations
-    x = x + y; // x holds the sum
+    x = x + y; // x holds sum
     y = x - y; // y is now the original value of x
     x = x - y; // x is now the original value of y
 
